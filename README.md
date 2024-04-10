@@ -50,5 +50,12 @@ CPF: 123.123.123-11
 
 Tipo Atendimento - 2 - Gerente Pessoa Jurídica
 
-
 ===========================================
+
+### Tecnologias Utilizadas
+
+* [Linguagem C](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+
+## Como rodar o projeto ✅
+
+O projeto pode ser exucatado diretamente no computador com sistema Windows através do arquivo com extesão ".exe"
