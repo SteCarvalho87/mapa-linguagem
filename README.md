@@ -58,4 +58,6 @@ Tipo Atendimento - 2 - Gerente Pessoa Jurídica
 
 ## Como rodar o projeto ✅
 
-O projeto pode ser exucatado diretamente no computador com sistema Windows através do arquivo com extesão ".exe"
+O projeto pode ser exucatado diretamente no computador com sistema Windows através do arquivo com extensão ".exe"
+Também pode ser visualizado um trecho da execução do código no vídeo a seguir: https://youtu.be/WM-BFqVyU_0
+
